@@ -1,3 +1,5 @@
+package day01;
+
 import javax.swing.*;
 
 public class P04_kullanicidanVeriAlma {

@@ -1,3 +1,5 @@
+package day01;
+
 public class P02_dataTypes {
     public static void main(String[] args) {
  /*
